@@ -24,4 +24,5 @@ As mensagens serão exibidas no console simulando o envio para os canais.
 - Criar uma estrutura fácil de manter e expandir
 
 ## Exemplo de saída
-.
+[WhatsApp] Para +551199999999 => [Texto] Olá, tudo bem? - 21/05/2025 21:10:00
+[Facebook] Para pedro.fb => [Foto] Veja essa imagem - Arquivo: imagem.jpg - 21/05/2025 21:10:00
